@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Lições do projeto 
+## Recursos Ultilizados
 
 1 - LocalStorafe
 2 - Bootstrap
