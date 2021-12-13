@@ -6,8 +6,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Gerenciador de tarefas 
+## Lições do projeto 
 
 1 - LocalStorafe
 2 - Bootstrap
 3 - Criação CRUD
+4- Criação De rotas
+5 - Criação de Diretivas
+
